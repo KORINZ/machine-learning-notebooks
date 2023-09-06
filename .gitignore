@@ -478,3 +478,4 @@ fabric.properties
 
 # Config file
 .DS_Store
+models/
